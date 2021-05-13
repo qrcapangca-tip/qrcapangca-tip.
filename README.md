@@ -9,4 +9,4 @@
 ### Computer Specs
 <b>CPU:</b>Intel Core i3-4005U
 <b>RAM:</b>4GB RAM
-<b>Storage:</b>1000GB HDD
+<b>Storage:</b> 1000GB HDD
